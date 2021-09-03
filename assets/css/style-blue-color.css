@@ -7078,3 +7078,8 @@ button[type="submit"] .loading {
     width: 100%;
   }
 }
+
+.phdtitle{
+  color: black !important;
+  font-size: 80% !important;
+}
