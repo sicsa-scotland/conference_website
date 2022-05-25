@@ -2438,9 +2438,11 @@ hr.no-margin {
 }
 ul {
   margin: 0 0 10px;
+  margin-left: 10px;
 }
 li {
   margin-bottom: 7px;
+  margin-left: 10px;
 }
 .visible {
   opacity: 1;
