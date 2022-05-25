@@ -7208,3 +7208,6 @@ button[type="submit"] .loading {
     width: 100%;
   }
 }
+
+li.margin { margin-left: 10px; }
+li.padding {padding-left: 10px; }
