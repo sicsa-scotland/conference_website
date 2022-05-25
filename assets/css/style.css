@@ -60,12 +60,13 @@
   text-align: center;
 }
 .fa-ul {
-  padding-left: 0;
+  padding-left: 1em;
   margin-left: 2.14285714em;
   list-style-type: none;
 }
 .fa-ul > li {
   position: relative;
+  margin-left: 10px;
 }
 .fa-li {
   position: absolute;
@@ -7209,5 +7210,3 @@ button[type="submit"] .loading {
   }
 }
 
-li.margin { margin-left: 10px; }
-li.padding {padding-left: 10px; }
