@@ -2437,7 +2437,7 @@ hr.no-margin {
   margin: 0;
 }
 ul {
-  margin: 0 0 10px;
+  /*margin: 0 0 10px;*/
   margin-left: 10px;
 }
 li {
